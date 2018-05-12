@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3278'
     url: http://www.gutenberg.org/2009/agents/3278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40586#Billie-Bradley-and-Her-ClassmatesThe-Secret-of-the-Locked-Tower
 gutenberg_issued: '2012-08-26'
 gutenberg_type: Text
 identifiers:
